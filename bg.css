@@ -1,0 +1,8 @@
+
+td:background:url(images/bd1.png);
+td:background-size: 80px 60px;
+td:background-repeat:no-repeat;
+a:visited{color:#008000}
+a:active{color:#008000}
+a:link {color:#008000;text-decoration:none;}
+a:hover {color:#800000;text-decoration:none;}
